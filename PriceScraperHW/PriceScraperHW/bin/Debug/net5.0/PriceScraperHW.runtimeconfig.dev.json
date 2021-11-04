@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kamen\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kamen\\.nuget\\packages"
+    ]
+  }
+}
